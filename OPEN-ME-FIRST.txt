@@ -1,0 +1,14 @@
+WITHIN IPHONE APP
+
+OPEN THIS FILE IN XCODE:
+Within.xcodeproj
+
+1. Open Xcode.
+2. Choose "Open Existing Project..." or File > Open.
+3. Open Within.xcodeproj from this folder.
+4. Click the blue Within project icon in the left sidebar.
+5. Open Signing & Capabilities and choose your Apple Developer Team.
+6. Choose an iPhone simulator at the top of Xcode.
+7. Press the triangular Run button.
+
+Do not select an individual Swift file and do not select the Within source folder.
